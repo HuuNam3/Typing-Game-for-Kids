@@ -4,6 +4,10 @@
 
 **SPACE INVADERS** is a keyboard typing game combined with space shooting mechanics. Players destroy enemies by correctly typing words that appear on screen. Developed with Unity, this game is suitable for all ages who want to improve their typing speed and accuracy.
 
+## Download
+
+- **Game build (Windows)**: [Download from Google Drive](https://drive.google.com/file/d/1okxsGAIV0J010ZqlcVTP7pR3z_YfsC2T/view?usp=drive_link)
+
 ## Key Features
 
 - **Multiple Levels**: Progressive difficulty levels from simple to complex words with diverse characters
