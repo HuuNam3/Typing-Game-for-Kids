@@ -6,7 +6,7 @@
 
 ## Download
 
-- **Game build (Windows)**: [Download from Google Drive](https://drive.google.com/file/d/1okxsGAIV0J010ZqlcVTP7pR3z_YfsC2T/view?usp=drive_link)
+- **Game build (Windows)**: [Download from Google Drive](https://drive.google.com/file/d/1okxsGAIV0J010ZqlcVTP7pR3z_YfsC2T/view?usp=drive_link) (pass: anhnam)
 
 ## Key Features
 
